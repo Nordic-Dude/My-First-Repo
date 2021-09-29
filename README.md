@@ -2,4 +2,3 @@
 first demo lesson
 
 Owner: Kjetil Frantzen
-hello
