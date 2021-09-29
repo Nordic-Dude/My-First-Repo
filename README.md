@@ -1,4 +1,4 @@
 # demo-lesson-first
 first demo lesson
 
-Owner: Kjetil Frantzen
+Owner: Kjetil Frantzen (Nordic-Dude)
