@@ -1,4 +1,5 @@
 # demo-lesson-first
 first demo lesson
 
-Kjetil Frantzen
+Owner: Kjetil Frantzen
+hello
